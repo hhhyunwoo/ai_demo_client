@@ -1,9 +1,26 @@
 # AI Demo Client
-## Description
-* You can use Voice AI Demo service with this web. 
-* It will service about Voice Synthesis, Voice Recognition etc...
 
+## Description
+
+- You can use Voice AI Demo service with this web.
+- It will service about Voice Synthesis, Voice Recognition etc...
+
+---
 
 ## Tech Stack
-* React with CRA(Create-React-App)
-* Django (If this repo needs backend server function)
+
+### Frontend
+
+- React with CRA(Create-React-App)
+
+
+### Backend
+
+- Django (If this repo needs backend server function)
+
+
+---
+
+## Prerequisite
+
+- React
